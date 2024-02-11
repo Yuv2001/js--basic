@@ -14,5 +14,5 @@ console.log(gamName.indexOf('a'));
 const newString = gamName.substring(0,5)
 console.log(newString);
 
-const anotherString = gamName.slice(-5,2)
+const anotherString = gamName.slice(-5,3)
 console.log(anotherString);
